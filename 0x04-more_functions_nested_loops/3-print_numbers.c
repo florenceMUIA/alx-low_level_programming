@@ -4,7 +4,7 @@
  * print_numbers - prints 0-9 and a new line
  * Return: numbers fom 0-9
  */
-void print_numbers(void);
+void print_numbers(void)
 {
 	int i;
 
